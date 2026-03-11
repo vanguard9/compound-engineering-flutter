@@ -1,0 +1,31 @@
+{
+  "name": "compound-engineering-flutter",
+  "version": "1.0.0",
+  "description": "Flutter/Dart AI 开发工具集。9 个专业 Agent，6 个命令，5 个 Skill，用于 Flutter 代码审查、架构设计、状态管理和工作流自动化。",
+  "author": {
+    "name": "Zongsen",
+    "url": "https://github.com/zongsen"
+  },
+  "homepage": "https://github.com/zongsen/compound-engineering-flutter",
+  "repository": "https://github.com/zongsen/compound-engineering-flutter",
+  "license": "MIT",
+  "keywords": [
+    "flutter",
+    "dart",
+    "ai-powered",
+    "compound-engineering",
+    "code-review",
+    "widget",
+    "state-management",
+    "bloc",
+    "riverpod",
+    "clean-architecture",
+    "workflow-automation"
+  ],
+  "mcpServers": {
+    "context7": {
+      "type": "http",
+      "url": "https://mcp.context7.com/mcp"
+    }
+  }
+}

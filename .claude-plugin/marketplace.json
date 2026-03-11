@@ -32,6 +32,18 @@
       "homepage": "https://github.com/EveryInc/compound-engineering-plugin",
       "tags": ["coding", "programming", "tutorial", "learning", "spaced-repetition", "education"],
       "source": "./plugins/coding-tutor"
+    },
+    {
+      "name": "compound-engineering-flutter",
+      "description": "Flutter/Dart AI 开发工具集。9 个专业 Agent，6 个命令，5 个 Skill，用于代码审查、架构设计、状态管理和工作流自动化。",
+      "version": "1.0.0",
+      "author": {
+        "name": "Zongsen",
+        "url": "https://github.com/zongsen"
+      },
+      "homepage": "https://github.com/zongsen/compound-engineering-flutter",
+      "tags": ["flutter", "dart", "ai-powered", "compound-engineering", "code-review", "widget", "state-management", "clean-architecture"],
+      "source": "./plugins/compound-engineering-flutter"
     }
   ]
 }
